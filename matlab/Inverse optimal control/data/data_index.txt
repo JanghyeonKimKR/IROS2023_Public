@@ -1,0 +1,15 @@
+1 : tx              
+2 : x               
+3 : y               
+4 : dx              
+5 : dy              
+6 : ddx             
+7 : ddy             
+8 : theta_x         
+9 : theta_y      
+10 : dtheta_x      
+11 : dtheta_y
+12 : ddtheta_x
+13 : ddtheta_y 
+14 : Activation Curve1
+15 : Activation Curve2
