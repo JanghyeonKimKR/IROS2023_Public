@@ -1,0 +1,74 @@
+{
+    "CUBE": {
+        "checkpoints": [
+            {
+                "steps": 1099981,
+                "file_path": "results\\IROS2023-approach1\\CUBE\\CUBE-1099981.onnx",
+                "reward": null,
+                "creation_time": 1677693502.036652,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-approach1\\CUBE\\CUBE-1099981.pt"
+                ]
+            },
+            {
+                "steps": 1199980,
+                "file_path": "results\\IROS2023-approach1\\CUBE\\CUBE-1199980.onnx",
+                "reward": -2254.9355238825083,
+                "creation_time": 1677694100.0908413,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-approach1\\CUBE\\CUBE-1199980.pt"
+                ]
+            },
+            {
+                "steps": 1299994,
+                "file_path": "results\\IROS2023-approach1\\CUBE\\CUBE-1299994.onnx",
+                "reward": -1209.3110593458016,
+                "creation_time": 1677694701.3558142,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-approach1\\CUBE\\CUBE-1299994.pt"
+                ]
+            },
+            {
+                "steps": 1399989,
+                "file_path": "results\\IROS2023-approach1\\CUBE\\CUBE-1399989.onnx",
+                "reward": -1191.1942069927852,
+                "creation_time": 1677695306.169432,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-approach1\\CUBE\\CUBE-1399989.pt"
+                ]
+            },
+            {
+                "steps": 1492295,
+                "file_path": "results\\IROS2023-approach1\\CUBE\\CUBE-1492295.onnx",
+                "reward": -1034.572760117054,
+                "creation_time": 1677695994.523333,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-approach1\\CUBE\\CUBE-1492295.pt"
+                ]
+            },
+            {
+                "steps": 1492295,
+                "file_path": "results\\IROS2023-approach1\\CUBE\\CUBE-1492295.onnx",
+                "reward": null,
+                "creation_time": 1677696024.4249587,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-approach1\\CUBE\\CUBE-1492295.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1492295,
+            "file_path": "results\\IROS2023-approach1\\CUBE.onnx",
+            "reward": null,
+            "creation_time": 1677696024.4249587,
+            "auxillary_file_paths": [
+                "results\\IROS2023-approach1\\CUBE\\CUBE-1492295.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.13.1+cu116"
+    }
+}

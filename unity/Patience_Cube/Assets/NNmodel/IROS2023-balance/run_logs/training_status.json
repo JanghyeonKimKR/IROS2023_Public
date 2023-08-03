@@ -1,0 +1,137 @@
+{
+    "CUBE": {
+        "checkpoints": [
+            {
+                "steps": 99980,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-99980.onnx",
+                "reward": null,
+                "creation_time": 1677697664.7827547,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-99980.pt"
+                ]
+            },
+            {
+                "steps": 199980,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-199980.onnx",
+                "reward": -51875.4235534668,
+                "creation_time": 1677698285.9437835,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-199980.pt"
+                ]
+            },
+            {
+                "steps": 299980,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-299980.onnx",
+                "reward": null,
+                "creation_time": 1677698911.8157601,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-299980.pt"
+                ]
+            },
+            {
+                "steps": 399989,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-399989.onnx",
+                "reward": -38122.499938964844,
+                "creation_time": 1677699548.1750336,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-399989.pt"
+                ]
+            },
+            {
+                "steps": 499995,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-499995.onnx",
+                "reward": -37889.98425292969,
+                "creation_time": 1677700188.1826596,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-499995.pt"
+                ]
+            },
+            {
+                "steps": 599985,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-599985.onnx",
+                "reward": -3815.196315407753,
+                "creation_time": 1677700840.2553687,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-599985.pt"
+                ]
+            },
+            {
+                "steps": 699995,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-699995.onnx",
+                "reward": -5113.822610408068,
+                "creation_time": 1677701490.3783033,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-699995.pt"
+                ]
+            },
+            {
+                "steps": 799994,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-799994.onnx",
+                "reward": null,
+                "creation_time": 1677702137.725006,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-799994.pt"
+                ]
+            },
+            {
+                "steps": 899986,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-899986.onnx",
+                "reward": -2502.906856060028,
+                "creation_time": 1677702863.9909546,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-899986.pt"
+                ]
+            },
+            {
+                "steps": 999995,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-999995.onnx",
+                "reward": -4119.933679282665,
+                "creation_time": 1677703473.904452,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-999995.pt"
+                ]
+            },
+            {
+                "steps": 1099989,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-1099989.onnx",
+                "reward": -1736.6314313411713,
+                "creation_time": 1677704083.4971688,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-1099989.pt"
+                ]
+            },
+            {
+                "steps": 1199988,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-1199988.onnx",
+                "reward": -1324.8910532593727,
+                "creation_time": 1677704704.245968,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-1199988.pt"
+                ]
+            },
+            {
+                "steps": 1208763,
+                "file_path": "results\\IROS2023-balance\\CUBE\\CUBE-1208763.onnx",
+                "reward": -1737.8761100769043,
+                "creation_time": 1677704757.5794013,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-balance\\CUBE\\CUBE-1208763.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1208763,
+            "file_path": "results\\IROS2023-balance\\CUBE.onnx",
+            "reward": -1737.8761100769043,
+            "creation_time": 1677704757.5794013,
+            "auxillary_file_paths": [
+                "results\\IROS2023-balance\\CUBE\\CUBE-1208763.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.13.1+cu116"
+    }
+}
