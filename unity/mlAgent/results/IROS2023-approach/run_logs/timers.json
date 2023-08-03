@@ -1,0 +1,54 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1677696019",
+        "python_version": "3.7.16 (default, Jan 17 2023, 16:06:28) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\kim\\anaconda3\\envs\\mlagent\\Scripts\\mlagents-learn config/ppo/Cube_Basic.yaml --run-id=IROS2023-approach1 --resume",
+        "mlagents_version": "0.28.0",
+        "mlagents_envs_version": "0.28.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.13.1+cu116",
+        "numpy_version": "1.21.6",
+        "end_time_seconds": "1677696024"
+    },
+    "total": 5.0437078,
+    "count": 1,
+    "self": 0.010691200000000123,
+    "children": {
+        "run_training.setup": {
+            "total": 0.08227899999999999,
+            "count": 1,
+            "self": 0.08227899999999999
+        },
+        "TrainerController.start_learning": {
+            "total": 4.9507376,
+            "count": 1,
+            "self": 9.110000000056573e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 3.9446464999999997,
+                    "count": 1,
+                    "self": 3.9446464999999997
+                },
+                "trainer_threads": {
+                    "total": 1.2000000007006406e-06,
+                    "count": 1,
+                    "self": 1.2000000007006406e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.0059987999999995,
+                    "count": 1,
+                    "self": 0.0054778999999998135,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 1.0005208999999997,
+                            "count": 1,
+                            "self": 1.0005208999999997
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

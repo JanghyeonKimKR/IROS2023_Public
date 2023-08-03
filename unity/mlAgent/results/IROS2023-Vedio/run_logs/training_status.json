@@ -1,0 +1,137 @@
+{
+    "CUBE": {
+        "checkpoints": [
+            {
+                "steps": 99980,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-99980.onnx",
+                "reward": null,
+                "creation_time": 1677991606.5673146,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-99980.pt"
+                ]
+            },
+            {
+                "steps": 199980,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-199980.onnx",
+                "reward": -62974.41700744629,
+                "creation_time": 1677992297.345173,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-199980.pt"
+                ]
+            },
+            {
+                "steps": 299980,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-299980.onnx",
+                "reward": null,
+                "creation_time": 1677992923.049708,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-299980.pt"
+                ]
+            },
+            {
+                "steps": 399980,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-399980.onnx",
+                "reward": -43049.44885253906,
+                "creation_time": 1677993531.9224894,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-399980.pt"
+                ]
+            },
+            {
+                "steps": 499980,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-499980.onnx",
+                "reward": -38550.3896484375,
+                "creation_time": 1677994138.8768022,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-499980.pt"
+                ]
+            },
+            {
+                "steps": 599980,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-599980.onnx",
+                "reward": null,
+                "creation_time": 1677994737.5566795,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-599980.pt"
+                ]
+            },
+            {
+                "steps": 699980,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-699980.onnx",
+                "reward": -24834.631103515625,
+                "creation_time": 1677995325.6731179,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-699980.pt"
+                ]
+            },
+            {
+                "steps": 799986,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-799986.onnx",
+                "reward": -1039.3295814990997,
+                "creation_time": 1677995913.758955,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-799986.pt"
+                ]
+            },
+            {
+                "steps": 899992,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-899992.onnx",
+                "reward": -5550.852736949921,
+                "creation_time": 1677996500.9365432,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-899992.pt"
+                ]
+            },
+            {
+                "steps": 999996,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-999996.onnx",
+                "reward": -9289.682238340378,
+                "creation_time": 1677997090.3410814,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-999996.pt"
+                ]
+            },
+            {
+                "steps": 1099985,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-1099985.onnx",
+                "reward": -4087.940749168396,
+                "creation_time": 1677997675.3893178,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-1099985.pt"
+                ]
+            },
+            {
+                "steps": 1103081,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-1103081.onnx",
+                "reward": -2673.982183456421,
+                "creation_time": 1677997693.25961,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-1103081.pt"
+                ]
+            },
+            {
+                "steps": 1104141,
+                "file_path": "results\\IROS2023-Vedio\\CUBE\\CUBE-1104141.onnx",
+                "reward": null,
+                "creation_time": 1677997733.8473382,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-Vedio\\CUBE\\CUBE-1104141.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1104141,
+            "file_path": "results\\IROS2023-Vedio\\CUBE.onnx",
+            "reward": null,
+            "creation_time": 1677997733.8473382,
+            "auxillary_file_paths": [
+                "results\\IROS2023-Vedio\\CUBE\\CUBE-1104141.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.13.1+cu116"
+    }
+}

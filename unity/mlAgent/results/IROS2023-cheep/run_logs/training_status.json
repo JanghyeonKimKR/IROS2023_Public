@@ -1,0 +1,146 @@
+{
+    "CUBE": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-0.onnx",
+                "reward": null,
+                "creation_time": 1677704980.673539,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-0.pt"
+                ]
+            },
+            {
+                "steps": 99980,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-99980.onnx",
+                "reward": null,
+                "creation_time": 1677705629.049819,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-99980.pt"
+                ]
+            },
+            {
+                "steps": 199980,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-199980.onnx",
+                "reward": -59776.757080078125,
+                "creation_time": 1677706228.944333,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-199980.pt"
+                ]
+            },
+            {
+                "steps": 299980,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-299980.onnx",
+                "reward": null,
+                "creation_time": 1677706829.6389947,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-299980.pt"
+                ]
+            },
+            {
+                "steps": 399980,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-399980.onnx",
+                "reward": -49417.18948364258,
+                "creation_time": 1677707430.4267542,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-399980.pt"
+                ]
+            },
+            {
+                "steps": 499980,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-499980.onnx",
+                "reward": -36353.83352661133,
+                "creation_time": 1677708030.7070277,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-499980.pt"
+                ]
+            },
+            {
+                "steps": 599980,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-599980.onnx",
+                "reward": null,
+                "creation_time": 1677708633.0118942,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-599980.pt"
+                ]
+            },
+            {
+                "steps": 699989,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-699989.onnx",
+                "reward": -22375.72060096264,
+                "creation_time": 1677709232.7839413,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-699989.pt"
+                ]
+            },
+            {
+                "steps": 799990,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-799990.onnx",
+                "reward": null,
+                "creation_time": 1677709831.6785314,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-799990.pt"
+                ]
+            },
+            {
+                "steps": 899995,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-899995.onnx",
+                "reward": -13858.219834506512,
+                "creation_time": 1677710421.3278382,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-899995.pt"
+                ]
+            },
+            {
+                "steps": 999989,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-999989.onnx",
+                "reward": -2899.6518251895905,
+                "creation_time": 1677711013.355063,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-999989.pt"
+                ]
+            },
+            {
+                "steps": 1099989,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-1099989.onnx",
+                "reward": null,
+                "creation_time": 1677711604.2675507,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-1099989.pt"
+                ]
+            },
+            {
+                "steps": 1199992,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-1199992.onnx",
+                "reward": -4653.698070844014,
+                "creation_time": 1677712200.0734596,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-1199992.pt"
+                ]
+            },
+            {
+                "steps": 1202012,
+                "file_path": "results\\IROS2023-cheep\\CUBE\\CUBE-1202012.onnx",
+                "reward": -10161.232909917831,
+                "creation_time": 1677712211.7565348,
+                "auxillary_file_paths": [
+                    "results\\IROS2023-cheep\\CUBE\\CUBE-1202012.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1202012,
+            "file_path": "results\\IROS2023-cheep\\CUBE.onnx",
+            "reward": -10161.232909917831,
+            "creation_time": 1677712211.7565348,
+            "auxillary_file_paths": [
+                "results\\IROS2023-cheep\\CUBE\\CUBE-1202012.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.13.1+cu116"
+    }
+}

@@ -1,0 +1,10 @@
+pip install mlagents==0.28.0
+pip install –e ./ml-agents-envs
+pip install –e ./ml-agents
+
+mlagents-learn config/ppo/Cube_Basic.yaml --run-id=IROS2023-1
+mlagents-learn config/ppo/Cube_Basic.yaml --run-id=IROS2023-1 --force
+mlagents-learn config/ppo/Cube_Basic.yaml --run-id=IROS2023-cheep --resume
+
+########################################
+tensorboard --logdir=results --port=6006
